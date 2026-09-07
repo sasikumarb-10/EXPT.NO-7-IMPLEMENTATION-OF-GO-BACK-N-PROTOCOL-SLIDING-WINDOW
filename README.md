@@ -53,4 +53,5 @@ printf("\n All frames sent successfully.\n");
 
 
 # RESULT: Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
-![Uploading image.png…]()
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6195b080-4923-4e59-9204-a3bd0274890d" />
+
